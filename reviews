@@ -1,1 +1,53 @@
+We have received the reports from our advisors on your manuscript, "Efficient Feature Selection techniques for Sentiment Analysis", which you submitted to MULTIMEDIA TOOLS AND APPLICATIONS.
 
+Based on the advice received, the Editor feels that your manuscript could be reconsidered for publication should you be prepared to incorporate major revisions.  When preparing your revised manuscript, you are asked to carefully consider the reviewer comments which are attached, and submit a list of responses to the comments. Please upload your Responses to the Reviewer Comments as an attached file, in addition to your revised manuscript.
+
+PLEASE NOTE: YOUR REVISED VERSION CANNOT BE SUBMITTED IN .PS OR .PDF.  IN THE EVENT THAT YOUR REVISED VERSION IS ACCEPTED, YOUR PAPER CAN BE SENT TO PRODUCTION WITHOUT DELAY ONLY IF WE HAVE THE SOURCE FILES ON HAND. Submissions without source files will be returned  prior to final acceptance.
+
+In order to submit your revised manuscript and responses, please access the following web site:
+
+https://www.editorialmanager.com/mtap/
+
+Your username is: Avinash
+If you forgot your password, you can click the 'Send Login Details' link on the EM Login page.
+
+We look forward to receiving your revised manuscript on or before 2019-07-11 23:59:59.
+
+with kind regards,
+
+    The Editorial Office
+    MULTIMEDIA TOOLS AND APPLICATIONS
+
+
+COMMENTS FOR THE AUTHOR:
+
+
+Reviewer #1: Generally, this paper focuses on features selection for sentiment analysis and provides an evaluation oriented work for performance of different feature selection techniques like Categorical Proportion difference(CPD),Bi-Normal Separation(BNS),Chi-Square(CHI),GSS-Coefficient(GSS),Odds Ratio(OR) and Count-Difference(CD) (as in the context of ML classifiers and Ensemble techniques). The paper seems having a remarkable subject and an effort but in order to have a final decision, some major updates should also be done. The related revisions are as follows:
+1- Introduction section seems weak. It should be improved by including more discussion regarding background and objectives.
+2- Graphics for the findings should be provided in bigger sizes so that the readers can read better them.
+3- Discussion section seems wide but a little difficult to read and flow. Maybe it can be better if listing style is removed and a pure explanation is followed for discussing about the findings-results.
+4- The most recent touch with the literature is from 2017. The author(s) should have connection with the recent works from 2018, and 2019, in order to improve general quality.
+5- Total number of references should be increased to at least 30-35, for improving quality (The comment 4 may be followed for that purpose).
+Thanks the author(s) for their valuable efforts to form this paper-research.
+
+
+Reviewer #2: This paper aims to propose an efficient feature selection technique for sentiment analysis. Its basic idea is to select the best features selection techniques by evaluating the performances of some feature selection techniques (i.e., CPD, BNS, CHI, GSS, OR, CD) on extracted features. I think there are a lot of aspects should be clarified and more comparisons should be added in order to make the paper more clearly and completely. 
+In the following the detailed comments are listed.
+1.      Page 2, abstract: The advantages of the proposed methods should be clarified in details.
+2.      Page 3, introduction: The authors reviews some previous works. However, these methods have been proposed for several years. How about the most recent related algorithms? 
+3.      Page 4: Some abbreviations do not have their full names when they first appeared, such as TF-IDF.
+4.      Page 15, Performance analysis: The authors used accuracy score and F1-score to evaluate the robustness of the steganography methods. The authors should give the reason to select these metrics. 
+5.      Page 15, Performance analysis: Comparisons with other recent feature selection techniques should be added in the experiment. 
+6.      Page 35, References: It seems that most references are published two years ago. The authors should provide more recent works.
+
+
+
+Reviewer #3: Sentiment analysis is an important topic in computer vision. In this work, Sentiment analysis is fully assessed by different feature selection techniques and different machine learning classifiers where Term Frequency-Inverse document frequency is used to extract features from the text data. Although only existing techniques are employed, the experiments are solid. There are some reference effects for other researchers, but there are also some questions.
+
+1.      The abstract should be concentrated.
+2.      More related work should be discussed, and some important and latest references are missing, especial for feature fusion and ensemble techniques, for example, Cognitive-inspired class-statistic matching with triple-constrain for camera free 3D object retrieval, MMALFM: Explainable Recommendation by Leveraging Reviews and Images, Z.Gao, H.Z Xuan, H.Zhang, S. H Wan and K. R. Choo, Adaptive Fusion and Category-Level Dictionary Learning Model for Multi-View Human Action Recognition, IEEE Internet of Things Journal, 2019, DOI:10.1109/JIOT.2019.2911669. 
+3.      Whether the title of Fig.1 is suitable or not? In addition, its font is also too big. 
+4.      What is the meaning of samples Estimators in Table.1 to Table 12? Please introduce them. 
+5.      More discussions should be given in Section 4 and 5. In section 4, whether the title of the experimental setting should be better or not?
+6.      In addition, there are too many tables and figures. Please concentrate them. 
+7.      I also find some grammar problems in this paper. Author needs to carefully check these low mistakes, which is very important for readers.
